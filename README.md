@@ -1,5 +1,7 @@
 # webpack4 code splitting and polyfill
 
+[edit]: We found two solutions: https://stackoverflow.com/questions/50062264/webpack-4-code-splitting-and-var-injection/50068935#50068935
+
 How to optimize vendor and register globals ?
 
 This is an example with an heavy dependency (moment) and `babel-polyfill`. There  is 2 webpack configs:
